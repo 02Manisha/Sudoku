@@ -41,5 +41,5 @@ This is a Sudoku game implemented in C. The game allows players to interactively
 
 - Gmail: cneha2675@gmail.com
 - Github: [Click here](/https://github.com/02Manisha)
-- LinkedIn: [Click here]()
+- LinkedIn: [Click here](https://www.linkedin.com/posts/manisha-chauhan-4a9012277_github-02manishasudoku-activity-7194759851485372418-dY1Y?utm_source=share&utm_medium=member_desktop)
 
