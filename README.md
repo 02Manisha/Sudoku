@@ -3,6 +3,8 @@
 ## Introduction
 This is a Sudoku game implemented in C. The game allows players to interactively solve Sudoku puzzles by filling in the numbers in a 9x9 grid.
 
+![!](https://brainfreezepuzzles.com/puzzles/Brainfreeze_SimpleRainbow.jpg)
+
 ## Features
 - *Interactive Gameplay*: Players can input row, column, and number values to fill in the Sudoku grid. The game provides a clear interface for players to interact with.
 - *Error Handling*: The game gracefully handles invalid inputs for rows, columns, and numbers, providing appropriate error messages to the player.
